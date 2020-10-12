@@ -9,4 +9,4 @@
 ### 算法
 [LRU(最近最少使用)](算法/LRU.MD)  
 [全方位解读前端用到的栈结构](https://github.com/sisterAn/JavaScript-Algorithms/issues/24)  
-[V8内存控制与垃圾回收机制](算法/V8垃圾回收机制)
+[V8内存控制与垃圾回收机制](算法/V8垃圾回收机制.MD)
